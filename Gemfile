@@ -18,6 +18,8 @@ gem 'mini_magick'
 
 gem 'foreigner'
 
+gem 'devise'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
